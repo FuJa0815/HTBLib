@@ -4,7 +4,7 @@ using System.Windows;
 namespace HTBLib.MVVM.WPF
 {
     /// <inheritdoc/>
-    public abstract class BaseViewModel : MVVM.BaseViewModel
+    public abstract class BaseViewModel : MasterBaseViewModel
     {
         protected sealed override void InvokeOnMainThread(Action action)
         {
