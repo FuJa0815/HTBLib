@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTBLib", "HTBLib\HTBLib.csproj", "{AE5A802E-C61C-4149-AFDF-59C1744BA5FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTBLib.WPF.MVVM", "HTBLib.WPF.MVVM\HTBLib.WPF.MVVM.csproj", "{C6433FD0-6F8F-4399-8476-CE1B4780A0A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AE5A802E-C61C-4149-AFDF-59C1744BA5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE5A802E-C61C-4149-AFDF-59C1744BA5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE5A802E-C61C-4149-AFDF-59C1744BA5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE5A802E-C61C-4149-AFDF-59C1744BA5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6433FD0-6F8F-4399-8476-CE1B4780A0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6433FD0-6F8F-4399-8476-CE1B4780A0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6433FD0-6F8F-4399-8476-CE1B4780A0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6433FD0-6F8F-4399-8476-CE1B4780A0A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
