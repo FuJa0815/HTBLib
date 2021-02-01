@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTBLib.MVVM", "HTBLib.MVVM\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTBLib.MVVM.Xamarin", "HTBLib.MVVM.Xamarin\HTBLib.MVVM.Xamarin.csproj", "{2B0FD6B6-5A37-45E9-AEBD-2EF1F06A4865}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVVM", "MVVM", "{9C6B804B-5A56-4935-9825-BE7C3D1483FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6433FD0-6F8F-4399-8476-CE1B4780A0A8} = {9C6B804B-5A56-4935-9825-BE7C3D1483FD}
+		{56D47B1A-CAB0-4AB3-97CA-B9BD6BB09384} = {9C6B804B-5A56-4935-9825-BE7C3D1483FD}
+		{2B0FD6B6-5A37-45E9-AEBD-2EF1F06A4865} = {9C6B804B-5A56-4935-9825-BE7C3D1483FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1ED8B3EB-BD25-4D02-B3E6-2FCF521513A2}
